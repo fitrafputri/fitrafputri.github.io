@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Open+Sans&family=Poppins:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+
+
+#font1 {
+    font-family: 'Poppins';
+    font-weight: bolder;
+    color: #EDEDE6;
+}
+
+#font2 {
+    color: #EDEDE6;
+    font-family: 'Poppins';
+    font-weight: normal;
+    font-size: smaller;
+}
+
+#font3 {
+    color: #EDEDE6;
+    font-family: 'Poppins';
+}
+
+#font4 {
+    color: #edede60e;
+    font-family: 'Poppins';
+    font-weight: bolder;
+    font-size: 100px;
+}
+
+nav {
+    background-color: #000000;
+    position: fixed;
+}
+
+s {
+    color: rgba(169, 169, 169, 0.486);
+}
+
+#imgprof {
+    height: auto;
+    max-width: 100%;
+}
+
+#cardporto {
+    background-color: transparent;
+}
+
+.card-text {
+    color: #EDEDE6;
+}
+
+.card1 {
+    background-color: #343631;
+}
+
+body {
+    background-color: #000000;
+}
+
+span {
+    color: #9F8395;
+}
