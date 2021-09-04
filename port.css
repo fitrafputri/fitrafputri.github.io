@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Open+Sans&family=Poppins:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600&display=swap');
 
 
 
@@ -22,7 +23,7 @@
 }
 
 #font4 {
-    color: #edede60e;
+    color: #edede617;
     font-family: 'Poppins';
     font-weight: bolder;
     font-size: 100px;
@@ -31,6 +32,12 @@
 nav {
     background-color: #000000;
     position: fixed;
+    font-family: 'Manrope', sans-serif;
+}
+
+a.navbar-brand {
+    color: white;
+    font-weight: 600;
 }
 
 s {
@@ -39,11 +46,16 @@ s {
 
 #imgprof {
     height: auto;
-    max-width: 100%;
+    width: 100%;
+    border-radius: 50%;
 }
 
 #cardporto {
     background-color: transparent;
+}
+
+.card-img-top {
+    width: 40rem;
 }
 
 .card-text {
